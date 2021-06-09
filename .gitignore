@@ -1,0 +1,15 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/nbproject
+/.idea
+/.vagrant
+/public/modelo.mwb
+/public/modelo.mwb.bak
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
